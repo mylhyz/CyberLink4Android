@@ -1,12 +1,12 @@
-package com.charon.cyberlink.engine;
+package com.charonchui.cyberlink.engine;
 
 import java.util.ArrayList;
 import java.util.List;
 
 import org.cybergarage.upnp.Device;
 
-import com.charon.cyberlink.util.DLNAUtil;
-import com.charon.cyberlink.util.LogUtil;
+import com.charonchui.cyberlink.util.DLNAUtil;
+import com.charonchui.cyberlink.util.LogUtil;
 
 public class DLNAContainer {
 	private List<Device> mDevices;

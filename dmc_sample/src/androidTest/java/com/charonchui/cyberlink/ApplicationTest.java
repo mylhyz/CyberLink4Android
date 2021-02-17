@@ -1,4 +1,4 @@
-package com.charon.cyberlink;
+package com.charonchui.cyberlink;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

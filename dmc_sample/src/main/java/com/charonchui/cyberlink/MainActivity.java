@@ -1,4 +1,4 @@
-package com.charon.cyberlink;
+package com.charonchui.cyberlink;
 
 import java.util.List;
 
@@ -18,10 +18,10 @@ import android.widget.ListView;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.charon.cyberlink.engine.DLNAContainer;
-import com.charon.cyberlink.engine.DLNAContainer.DeviceChangeListener;
-import com.charon.cyberlink.service.DLNAService;
-import com.charon.cyberlink.util.LogUtil;
+import com.charonchui.cyberlink.engine.DLNAContainer;
+import com.charonchui.cyberlink.engine.DLNAContainer.DeviceChangeListener;
+import com.charonchui.cyberlink.service.DLNAService;
+import com.charonchui.cyberlink.util.LogUtil;
 
 public class MainActivity extends BaseActivity {
 	protected static final String TAG = "MainActivity";

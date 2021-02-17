@@ -1,15 +1,15 @@
-package com.charon.cyberlink.engine;
+package com.charonchui.cyberlink.engine;
 
 import org.cybergarage.upnp.ControlPoint;
 import org.cybergarage.upnp.Device;
 import org.cybergarage.upnp.device.DeviceChangeListener;
 
-import com.charon.cyberlink.util.LogUtil;
+import com.charonchui.cyberlink.util.LogUtil;
 
 /**
  * A thread to search the devices all the time.
  * 
- * @author CharonChui
+ * @author charonchuiChui
  */
 public class SearchThread extends Thread {
 	private boolean flag = true;

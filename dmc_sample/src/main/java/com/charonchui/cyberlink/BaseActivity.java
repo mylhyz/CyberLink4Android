@@ -1,4 +1,4 @@
-package com.charon.cyberlink;
+package com.charonchui.cyberlink;
 
 import android.app.Activity;
 import android.os.Bundle;

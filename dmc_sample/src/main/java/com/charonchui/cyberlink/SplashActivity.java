@@ -1,4 +1,4 @@
-package com.charon.cyberlink;
+package com.charonchui.cyberlink;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -6,13 +6,13 @@ import android.os.Handler;
 import android.view.animation.AlphaAnimation;
 import android.widget.ImageView;
 
-import com.charon.cyberlink.engine.DLNAContainer;
-import com.charon.cyberlink.service.DLNAService;
+import com.charonchui.cyberlink.engine.DLNAContainer;
+import com.charonchui.cyberlink.service.DLNAService;
 
 /**
  * Splash activity, show the welcome image and start the DLNAService.
  * 
- * @author CharonChui
+ * @author charonchuiChui
  * 
  */
 public class SplashActivity extends BaseActivity {

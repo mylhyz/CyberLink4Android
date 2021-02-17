@@ -1,4 +1,4 @@
-package com.charon.cyberlink.inter;
+package com.charonchui.cyberlink.inter;
 
 import org.cybergarage.upnp.Device;
 

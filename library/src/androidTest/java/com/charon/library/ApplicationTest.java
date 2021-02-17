@@ -1,4 +1,4 @@
-package com.charon.library;
+package com.charonchui.library;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
